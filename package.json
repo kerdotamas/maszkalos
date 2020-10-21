@@ -1,0 +1,23 @@
+{
+  "name": "maszkalos",
+  "version": "1.0.0",
+  "description": "maszkalos",
+  "main": "index.js",
+  "scripts": {
+    "test": "x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerdotamas/maszkalos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerdotamas/maszkalos/issues"
+  },
+  "homepage": "https://github.com/kerdotamas/maszkalos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "table": "^6.0.3"
+  }
+}
